@@ -4,7 +4,7 @@
 
 ## Usage
 
-Currently, the world of Teyvat enter your discord.
+The world of Teyvat enter your discord.
 
 ### Permissions:
 
